@@ -1,1 +1,52 @@
+body{font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: floralwhite;
+justify-items: auto;
+text-align: justify;
+}
 
+.hero{
+    height: 100vh;
+   
+     padding: 130px;
+    justify-content: left;
+    display: flex;
+    text-align: auto;
+    color: black;
+  
+}
+
+
+nav{
+    flex-direction: column;
+    background: rgba(rgb(0, 255, 51), green, blue, alpha);
+    padding: 20px;
+    display: flex;
+   
+}
+ .center-text{
+    text-align: center;
+ }
+
+ a{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ ul{
+    list-style-type: none;
+    padding: 45px;
+    margin: 25px;
+    display: flow-root;
+
+ }
+    li{
+        display: inline-block;
+        margin: 10px;
+        padding: 10px;
+        font-size: 20px;
+        font-weight: bold;
+        color: black;
+    }
+
+ 
+ 
